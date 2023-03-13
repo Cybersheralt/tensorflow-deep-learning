@@ -11,3 +11,7 @@ Here I'll upload notebooks written by me, during passing **Zero to Mastery Deep 
 - Computer Vision and Convolutional Neural Networks in TensorFlow
 - Transfer Learning in TensorFlow:
   - Feature Extraction
+  - Fine Tuning
+  - Scaling Up
+- NLP Fundamentals in TensorFlow
+- Time Series Fundamentals in TensorFlow
