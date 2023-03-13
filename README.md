@@ -1,6 +1,6 @@
 # Deep learning with Tensorflow
 
-Here I'll upload notebooks written by me, during passing **Zero to Mastery Deep Learning with TensorFlow course**. This repository will be updated constantly.
+Here I'll upload notebooks written by me, during passing [**Zero to Mastery Deep Learning with TensorFlow course**](https://zerotomastery.io/courses/learn-tensorflow/). This repository will be updated constantly.
 
 
 ## Topics covered in the course
